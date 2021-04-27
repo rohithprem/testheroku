@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/files/static/css/main.26b6b6ea.chunk.css",
+    "main.js": "/files/static/js/main.4cf04e7b.chunk.js",
+    "main.js.map": "/files/static/js/main.4cf04e7b.chunk.js.map",
+    "runtime-main.js": "/files/static/js/runtime-main.531d2023.js",
+    "runtime-main.js.map": "/files/static/js/runtime-main.531d2023.js.map",
+    "static/js/2.5886aa46.chunk.js": "/files/static/js/2.5886aa46.chunk.js",
+    "static/js/2.5886aa46.chunk.js.map": "/files/static/js/2.5886aa46.chunk.js.map",
+    "index.html": "/files/index.html",
+    "static/css/main.26b6b6ea.chunk.css.map": "/files/static/css/main.26b6b6ea.chunk.css.map",
+    "static/js/2.5886aa46.chunk.js.LICENSE.txt": "/files/static/js/2.5886aa46.chunk.js.LICENSE.txt",
+    "static/media/cfeed_instructions.ddf07103.mp4": "/files/static/media/cfeed_instructions.ddf07103.mp4",
+    "static/media/covifeed_intro.916f84d9.png": "/files/static/media/covifeed_intro.916f84d9.png",
+    "static/media/logo.6ce24c58.svg": "/files/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.531d2023.js",
+    "static/js/2.5886aa46.chunk.js",
+    "static/css/main.26b6b6ea.chunk.css",
+    "static/js/main.4cf04e7b.chunk.js"
+  ]
+}
